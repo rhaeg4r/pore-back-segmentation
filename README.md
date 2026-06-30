@@ -1,5 +1,3 @@
-# pore-back-segmentation
-
 # Pore-Back Segmentation
 
 Automated detection of pore-back artifacts in FIB-SEM microscopy.
